@@ -68,14 +68,14 @@
 RCT_EXPORT_MODULE()
 
 -(UIView *)view {
-    return [[RTCVideoView alloc] init];
+    return [[PjSipVideoViewManager alloc] init];
 }
 
 - (dispatch_queue_t)methodQueue {
   return dispatch_get_main_queue();
 }
 
-RCT_CUSTOM_VIEW_PROPERTY(windowId, NSNumber, RTCVideoView) {
+RCT_CUSTOM_VIEW_PROPERTY(windowId, NSNumber, PjSipVideoViewManager) {
     
 //    NSLog(@"RCT_CUSTOM_VIEW_PROPERTY");
 //    
