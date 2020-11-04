@@ -6,11 +6,11 @@
     "release": "release-it"
   },
   "author": {
-    "name": "David Melo",
-    "email": "david.melo@fastpbx.com"
+    "name": "Ilya Sayapin",
+    "email": "comeonandroid@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/FastPBX/react-native-sip/issues"
+    "url": "https://github.com/ilyaviache/react-native-sip/issues"
   },
   "dependencies": {
     "events": "1.1.0"
@@ -30,7 +30,7 @@
   },
   "name": "react-native-sip",
   "description": "SIP module for React Native",
-  "homepage": "https://github.com/FastPBX/react-native-sip",
+  "homepage": "https://github.com/ilyaviache/react-native-sip",
   "keywords": [
     "react-component",
     "react-native",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FastPBX/react-native-sip.git"
+    "url": "git+https://github.com/ilyaviache/react-native-sip.git"
   },
-  "version": "2.10.7"
+  "version": "2.10.8"
 }

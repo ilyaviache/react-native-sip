@@ -111,4 +111,6 @@ endpoint.addListener("call_terminated", (newCall) => {
 
 [DOCUMENTATION](https://FastPBX.github.io/react-native-sip/)
 
-*This repo it's based on a fork of [florindumitru/react-native-sip](https://github.com/florindumitru/react-native-sip).*
+*This repo it's based on a fork of [FastPBX/react-native-sip](https://github.com/FastPBX/react-native-sip).*
+
+Changes: rename RTCVideoView class so it wouldn't conflict with the react-native-webrtc RTCVideoView class

@@ -7,13 +7,13 @@
  * Implements an equivalent of {@code HTMLVideoElement} i.e. Web's video
  * element.
  */
-@interface RTCVideoView : RCTView
+@interface PJSIPRTCVideoView : RCTView
 
 // @property pjsua_vid_win_id vidWinId;
 
 @end
 
-@implementation RTCVideoView {
+@implementation PJSIPRTCVideoView {
     
 }
 
